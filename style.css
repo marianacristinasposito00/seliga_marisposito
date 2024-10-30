@@ -1,1 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');
 
+:root{
+    background-color: rgb(4, 135, 149);
+    font-family: "DynaPuff", system-ui;
+}
+
+body{
+background-color: rgb(35, 234, 234);
+
+}
+
+.titulos{
+text-align: center;
+
+}
